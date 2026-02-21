@@ -29,3 +29,4 @@ cd crypto_lib
 make
 make install
 cd ..
+# encryption-project
