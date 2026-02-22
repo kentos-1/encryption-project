@@ -19,7 +19,7 @@ class CryptoGUI:
     def __init__(self, root):
         self.root = root
         self.root.title("Криптографический инструмент v1.0")
-        self.root.geometry("700x550")
+        self.root.geometry("685x475")
         self.root.resizable(False, False)
         
         # Загружаем C++ библиотеку
